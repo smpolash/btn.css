@@ -1,4 +1,4 @@
-.button { }
+.button { color: #333; background-color: #ffffff; }
 
 .button.a { background-color: wheat; }
 .button.rounded { }
