@@ -1,5 +1,23 @@
-.button {
-
-}
+.button { }
 
 .button.a { background-color: wheat; }
+.button.rounded { }
+.button.square { }
+.button.oval { }
+
+.button.xs { }
+.button.sm { }
+.button.md { }
+.button.lg { }
+.button.xlg { }
+
+.button.s2x { }
+.button.s3x { }
+.button.s4x { }
+.button.s5x { }
+
+.button.b1px { }
+.button.b2px { }
+.button.b3px { }
+.button.b4px { }
+.button.b5px { }
