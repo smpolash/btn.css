@@ -1,23 +1,70 @@
-.button { color: #333; background-color: #ffffff; }
+.button {
+    color: #333;
+    background-color: #ffffff;
+}
 
-.button.a { background-color: wheat; }
-.button.rounded { }
-.button.square { }
-.button.oval { }
+.button.a {
+    background-color: wheat;
+}
 
-.button.xs { }
-.button.sm { }
-.button.md { }
-.button.lg { }
-.button.xlg { }
+.button.rounded {
+    border-radius: 50%;
+}
 
-.button.s2x { }
-.button.s3x { }
-.button.s4x { }
-.button.s5x { }
+.button.square {
+}
 
-.button.b1px { }
-.button.b2px { }
-.button.b3px { }
-.button.b4px { }
-.button.b5px { }
+.button.oval {
+}
+
+.button.xs {
+    max-width: 100px;
+    min-width: 50px;
+}
+
+.button.sm {
+    max-width: 120px;
+    min-width: 60px;
+}
+
+.button.md {
+    max-width: 140px;
+    min-width: 70px;
+}
+
+.button.lg {
+    max-width: 160px;
+    min-width: 80px;
+}
+
+.button.xlg {
+    max-width: 180px;
+    min-width: 90px;
+}
+
+.button.s2x {
+}
+
+.button.s3x {
+}
+
+.button.s4x {
+}
+
+.button.s5x {
+}
+
+.button.b1px {
+}
+
+.button.b2px {
+}
+
+.button.b3px {
+}
+
+.button.b4px {
+}
+
+.button.b5px {
+}
