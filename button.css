@@ -43,6 +43,8 @@
 }
 
 .button.s2x {
+    max-width: calc(120px * 2);
+    min-width: calc(60px *2);
 }
 
 .button.s3x {
